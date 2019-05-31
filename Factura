@@ -1,0 +1,16 @@
+<factura id="00001" fecha="30/05/2019">
+  <cliente>
+    <nombre>Astrid</nombre>
+    <apellido>Romero</apellido>
+    <telefono>6305701938</telefono>
+  <cliente/>
+  <articulos>
+    <articulo id=1>
+      <descripcion>licuadora</descripcion>
+      <precio-unitario>50</precio-unitario>
+      <precio-final>100</precio-final>
+      <cantidad>2</cantidad>
+    </articulo>
+  </articulos>
+  <precio-total>150</precio-total>
+</factura>
